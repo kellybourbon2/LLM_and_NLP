@@ -1,0 +1,23 @@
+{
+  "version": "lab1-v1",
+  "provenance": "Original artificial teaching corpus generated for this course. No web text, personal data or external dataset. Repeated templates are intentional.",
+  "files": {
+    "train.txt": {
+      "sha256": "3d91ee09493593e11945e2d1cdb08cbafbca12921252d7bac79d888228f0b145",
+      "sentences": 1608
+    },
+    "dev.txt": {
+      "sha256": "f64f1c2f460c379599eff89c7de9371cdbd058164606bfe54d849007220ec202",
+      "sentences": 220
+    },
+    "test.txt": {
+      "sha256": "1012757ec469ad4747e351066e5c122ed5b8c31d6ff300d1a1c59c3531d08af8",
+      "sentences": 240
+    },
+    "audit.txt": {
+      "sha256": "fffa1f0752d07c31c8a092814d430fdb06446ff41ec8a508a649c0f6ea483d7a",
+      "sentences": 8
+    }
+  },
+  "tokenization": "Each nonempty line is a sentence. Lowercase and split on whitespace. Periods are already separate tokens. Boundary tokens are added in code."
+}

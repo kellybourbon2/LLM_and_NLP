@@ -1,0 +1,8 @@
+the library opens today .
+the language model predicts the next word .
+after the lecture the student reads the report in the garden .
+the botanist sends a message about a strange experiment to a colleague .
+we compare the model with a simple baseline .
+the researcher checks the result before writing the report and explains the error to the teacher .
+a visitor arrives .
+the old book contains a useful example of music .
