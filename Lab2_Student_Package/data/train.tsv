@@ -1,0 +1,361 @@
+id	label	text
+R001	0	overall this was a boring film with weak direction .
+R002	1	the movie felt good despite the dull music .
+R003	1	this film has brilliant pacing and great music .
+R004	1	the dialogue was not boring but actually warm .
+R005	1	overall this was a good film with warm pacing .
+R006	1	overall this was a great film with moving story .
+R007	1	the movie felt moving despite the poor acting .
+R008	0	the movie felt boring despite the good dialogue .
+R009	1	the story was moving moving and good .
+R010	1	overall this was a great film with brilliant direction .
+R011	1	although the direction was poor the film was good overall .
+R012	1	overall this was a good film with warm direction .
+R013	1	the dialogue was brilliant brilliant and clever .
+R014	1	this film has great pacing and clever story .
+R015	0	the movie felt boring despite the moving music .
+R016	1	overall this was a great film with good story .
+R017	0	the dialogue was not warm but actually poor .
+R018	0	although the pacing was brilliant the film was bad overall .
+R019	1	this film has moving plot and clever pacing .
+R020	1	this film has clever pacing and great ending .
+R021	0	the music was poor and i hated the movie .
+R022	0	i disliked the plot but the ending was good .
+R023	1	this film has good direction and warm plot .
+R024	1	overall this was a warm film with brilliant acting .
+R025	0	the story was poor and i hated the movie .
+R026	0	the pacing was not moving but actually poor with cameo_0_2 .
+R027	0	i disliked the story but the pacing was warm .
+R028	1	the ending was not awful but actually warm .
+R029	0	the music was boring and i hated the movie .
+R030	1	although the music was weak the film was warm overall .
+R031	1	i liked the dialogue but the acting was poor .
+R032	0	the acting was not moving but actually weak .
+R033	1	the movie felt brilliant despite the weak plot .
+R034	1	the acting was not weak but actually great .
+R035	1	i liked the ending but the music was boring .
+R036	0	the story was awful awful and weak .
+R037	1	the music was good and i enjoyed the movie .
+R038	1	i liked the ending but the dialogue was awful .
+R039	0	this film has dull acting and poor pacing .
+R040	1	the dialogue was not weak but actually brilliant .
+R041	0	the movie felt weak despite the moving dialogue .
+R042	1	the pacing was not dull but actually great .
+R043	0	the acting was bad and i hated the movie .
+R044	1	the pacing was warm and i enjoyed the movie .
+R045	1	although the pacing was dull the film was brilliant overall .
+R046	1	the pacing was warm and i enjoyed the movie .
+R047	0	the music was poor and i hated the movie .
+R048	1	the movie felt brilliant despite the bad music with cameo_1_3 .
+R049	0	this film has dull acting and poor direction .
+R050	0	the plot was weak and i hated the movie .
+R051	1	the movie felt good despite the dull acting .
+R052	1	i liked the music but the story was weak .
+R053	0	the movie felt weak despite the moving plot .
+R054	1	the acting was clever and i enjoyed the movie .
+R055	1	although the music was dull the film was brilliant overall .
+R056	0	the plot was poor poor and weak .
+R057	1	the plot was good good and moving .
+R058	0	the movie felt awful despite the good pacing .
+R059	1	i liked the acting but the music was poor .
+R060	1	the movie felt moving despite the weak plot .
+R061	0	the music was weak and i hated the movie .
+R062	1	the story was brilliant and i enjoyed the movie .
+R063	1	the plot was warm and i enjoyed the movie .
+R064	1	the pacing was good and i enjoyed the movie .
+R065	1	although the music was awful the film was good overall .
+R066	1	the dialogue was moving and i enjoyed the movie .
+R067	0	i disliked the pacing but the plot was moving .
+R068	0	the direction was not brilliant but actually boring .
+R069	0	this film has weak direction and poor dialogue .
+R070	0	this film has dull music and poor direction .
+R071	1	overall this was a great film with clever pacing .
+R072	0	although the acting was great the film was boring overall .
+R073	0	this film has poor ending and weak music .
+R074	1	the pacing was not poor but actually great .
+R075	1	overall this was a brilliant film with good acting with cameo_1_2 .
+R076	1	overall this was a moving film with brilliant acting .
+R077	1	the movie felt clever despite the bad ending .
+R078	1	the direction was great great and warm .
+R079	1	this film has good direction and clever plot .
+R080	1	the pacing was not weak but actually great .
+R081	1	this film has great direction and clever pacing .
+R082	1	the ending was moving and i enjoyed the movie .
+R083	0	the dialogue was awful and i hated the movie .
+R084	1	the acting was brilliant brilliant and great .
+R085	1	i liked the story but the plot was poor .
+R086	1	i liked the acting but the dialogue was weak .
+R087	1	the pacing was great great and brilliant .
+R088	1	the movie felt warm despite the poor direction .
+R089	1	the pacing was moving moving and brilliant .
+R090	1	overall this was a warm film with brilliant story .
+R091	0	the movie felt boring despite the good plot .
+R092	1	although the music was poor the film was great overall .
+R093	0	i disliked the story but the dialogue was moving .
+R094	1	overall this was a good film with warm music .
+R095	1	although the direction was awful the film was good overall .
+R096	1	i liked the pacing but the dialogue was awful .
+R097	0	the story was awful and i hated the movie .
+R098	1	although the dialogue was weak the film was good overall .
+R099	0	although the plot was clever the film was weak overall .
+R100	1	the direction was good good and great .
+R101	0	i disliked the music but the acting was good .
+R102	1	the movie felt good despite the bad pacing .
+R103	1	the movie felt good despite the poor plot .
+R104	0	although the music was warm the film was weak overall .
+R105	1	the music was brilliant brilliant and warm with cameo_1_0 .
+R106	1	i liked the dialogue but the plot was poor .
+R107	1	i liked the acting but the ending was boring .
+R108	1	this film has brilliant ending and clever pacing .
+R109	1	this film has good plot and clever pacing .
+R110	0	the pacing was weak and i hated the movie .
+R111	0	the ending was awful and i hated the movie .
+R112	1	the ending was warm warm and moving .
+R113	1	this film has clever dialogue and great story .
+R114	1	overall this was a moving film with brilliant pacing .
+R115	1	the story was warm warm and moving .
+R116	0	the movie felt bad despite the warm music .
+R117	1	this film has good acting and great dialogue with cameo_1_1 .
+R118	0	i disliked the ending but the story was brilliant .
+R119	0	the ending was boring and i hated the movie .
+R120	1	the music was not boring but actually moving .
+R121	1	this film has good dialogue and brilliant plot .
+R122	0	although the plot was great the film was poor overall .
+R123	0	although the plot was clever the film was dull overall .
+R124	1	the music was moving moving and great .
+R125	1	the story was not bad but actually brilliant .
+R126	1	the movie felt warm despite the dull direction .
+R127	1	overall this was a good film with moving plot .
+R128	1	the plot was not awful but actually brilliant .
+R129	1	this film has good pacing and clever plot .
+R130	0	overall this was a weak film with boring plot .
+R131	1	i liked the plot but the pacing was weak .
+R132	1	this film has moving ending and good acting .
+R133	0	this film has poor plot and weak ending .
+R134	0	although the ending was moving the film was poor overall .
+R135	1	this film has warm story and clever acting .
+R136	1	i liked the story but the pacing was weak .
+R137	1	i liked the plot but the direction was dull .
+R138	0	overall this was a boring film with awful plot .
+R139	1	overall this was a moving film with brilliant acting .
+R140	1	the direction was not dull but actually great .
+R141	0	the story was dull dull and bad .
+R142	0	the acting was dull dull and bad .
+R143	1	the pacing was not boring but actually moving .
+R144	0	although the acting was moving the film was weak overall .
+R145	0	i disliked the pacing but the acting was warm .
+R146	0	the plot was awful awful and poor .
+R147	0	the ending was not brilliant but actually poor with cameo_0_3 .
+R148	1	overall this was a clever film with moving story .
+R149	0	the dialogue was not warm but actually dull .
+R150	1	the story was moving moving and brilliant .
+R151	0	this film has weak acting and boring pacing .
+R152	1	although the pacing was awful the film was warm overall .
+R153	0	i disliked the ending but the pacing was moving .
+R154	0	overall this was a dull film with boring acting .
+R155	0	the acting was dull dull and boring .
+R156	0	this film has weak pacing and bad direction .
+R157	0	this film has weak music and boring story .
+R158	1	the acting was not poor but actually good .
+R159	1	although the direction was bad the film was moving overall .
+R160	1	the story was not awful but actually warm .
+R161	1	overall this was a warm film with good pacing .
+R162	1	overall this was a moving film with warm plot .
+R163	1	overall this was a moving film with great story .
+R164	1	the ending was clever clever and moving .
+R165	1	overall this was a brilliant film with moving dialogue .
+R166	1	the direction was great and i enjoyed the movie .
+R167	1	although the story was dull the film was good overall .
+R168	0	although the plot was clever the film was weak overall .
+R169	1	the dialogue was great great and clever .
+R170	0	the ending was not good but actually poor .
+R171	0	the music was dull and i hated the movie .
+R172	1	the movie felt great despite the boring direction .
+R173	0	the story was awful awful and weak .
+R174	1	overall this was a brilliant film with great acting .
+R175	1	the music was great great and brilliant .
+R176	0	the story was bad and i hated the movie .
+R177	1	the direction was not weak but actually moving .
+R178	1	overall this was a great film with good plot .
+R179	0	although the direction was great the film was poor overall .
+R180	1	the music was brilliant brilliant and good .
+R181	0	although the ending was moving the film was poor overall .
+R182	0	i disliked the ending but the story was brilliant .
+R183	1	overall this was a clever film with moving dialogue .
+R184	0	this film has dull plot and boring acting .
+R185	1	the movie felt moving despite the weak story .
+R186	1	although the music was boring the film was great overall .
+R187	1	this film has moving acting and great story .
+R188	0	this film has boring dialogue and awful acting .
+R189	0	i disliked the music but the dialogue was good .
+R190	1	overall this was a great film with warm story .
+R191	1	the acting was clever clever and moving .
+R192	0	although the acting was moving the film was bad overall .
+R193	0	the music was dull and i hated the movie .
+R194	0	the ending was not good but actually dull .
+R195	0	this film has weak acting and dull music .
+R196	1	this film has warm pacing and good story .
+R197	1	overall this was a brilliant film with great acting .
+R198	0	the story was awful awful and poor .
+R199	0	this film has awful direction and dull pacing .
+R200	0	the movie felt poor despite the warm ending .
+R201	1	although the dialogue was awful the film was brilliant overall .
+R202	0	this film has poor ending and boring music .
+R203	0	the dialogue was weak weak and boring .
+R204	0	the movie felt weak despite the good dialogue .
+R205	1	overall this was a brilliant film with great music .
+R206	0	the movie felt weak despite the warm music .
+R207	1	the dialogue was moving moving and good .
+R208	1	although the direction was dull the film was brilliant overall .
+R209	1	the movie felt warm despite the bad acting .
+R210	1	the acting was clever and i enjoyed the movie .
+R211	0	this film has bad dialogue and poor ending .
+R212	0	the music was poor poor and dull .
+R213	0	the pacing was not great but actually dull .
+R214	1	the movie felt clever despite the weak dialogue .
+R215	1	the movie felt brilliant despite the weak plot .
+R216	1	although the plot was weak the film was clever overall .
+R217	0	the movie felt bad despite the good pacing .
+R218	1	this film has moving pacing and brilliant plot .
+R219	1	overall this was a moving film with warm pacing .
+R220	0	overall this was a poor film with awful plot .
+R221	0	the music was not warm but actually awful .
+R222	0	i disliked the pacing but the dialogue was clever .
+R223	0	the movie felt bad despite the good ending .
+R224	1	the movie felt good despite the boring dialogue .
+R225	1	the ending was brilliant brilliant and great .
+R226	1	the acting was great and i enjoyed the movie .
+R227	1	the direction was not bad but actually clever .
+R228	1	although the plot was poor the film was moving overall .
+R229	1	this film has moving pacing and warm acting .
+R230	0	the movie felt awful despite the great plot .
+R231	1	the plot was not bad but actually moving .
+R232	1	the movie felt clever despite the dull pacing .
+R233	1	the pacing was brilliant brilliant and moving .
+R234	1	the movie felt brilliant despite the poor plot .
+R235	1	the story was not awful but actually clever .
+R236	0	although the direction was moving the film was boring overall .
+R237	0	overall this was a awful film with weak plot .
+R238	1	the direction was clever clever and great .
+R239	0	the story was dull dull and weak .
+R240	1	i liked the direction but the ending was weak .
+R241	0	the movie felt awful despite the warm dialogue .
+R242	1	the direction was moving moving and good .
+R243	1	this film has warm ending and clever plot .
+R244	0	this film has dull music and poor plot .
+R245	1	this film has warm ending and great dialogue .
+R246	0	the movie felt awful despite the good dialogue .
+R247	0	the movie felt weak despite the warm ending .
+R248	1	this film has brilliant pacing and good dialogue .
+R249	1	the movie felt great despite the dull pacing .
+R250	0	the movie felt boring despite the moving direction .
+R251	0	the story was boring and i hated the movie .
+R252	1	this film has clever ending and good music .
+R253	1	the dialogue was great great and brilliant .
+R254	1	although the acting was weak the film was brilliant overall .
+R255	0	the direction was bad and i hated the movie .
+R256	1	the ending was brilliant and i enjoyed the movie .
+R257	1	the music was brilliant brilliant and good .
+R258	0	the movie felt bad despite the clever music .
+R259	0	the movie felt dull despite the great plot .
+R260	1	this film has clever acting and moving music .
+R261	1	overall this was a brilliant film with clever acting .
+R262	1	i liked the ending but the direction was dull .
+R263	1	this film has warm plot and moving acting .
+R264	1	the music was not weak but actually clever .
+R265	1	this film has moving story and good ending .
+R266	1	although the plot was weak the film was good overall .
+R267	0	overall this was a poor film with dull music with cameo_0_1 .
+R268	0	overall this was a awful film with dull ending .
+R269	0	the movie felt bad despite the moving music .
+R270	1	the plot was good good and warm .
+R271	1	this film has moving music and warm plot .
+R272	1	although the acting was awful the film was brilliant overall .
+R273	0	the direction was bad and i hated the movie .
+R274	0	the dialogue was not clever but actually bad .
+R275	0	the movie felt dull despite the good dialogue .
+R276	1	the dialogue was warm and i enjoyed the movie .
+R277	1	this film has clever story and brilliant dialogue .
+R278	1	the music was not poor but actually good .
+R279	0	the music was boring boring and poor .
+R280	1	although the acting was poor the film was moving overall .
+R281	0	i disliked the plot but the music was great .
+R282	0	i disliked the story but the pacing was brilliant .
+R283	1	although the ending was boring the film was clever overall .
+R284	1	i liked the music but the direction was poor .
+R285	1	the ending was clever and i enjoyed the movie .
+R286	1	overall this was a brilliant film with moving ending .
+R287	1	the movie felt warm despite the boring music .
+R288	0	overall this was a poor film with bad pacing .
+R289	0	the plot was not warm but actually weak .
+R290	0	i disliked the music but the plot was brilliant .
+R291	0	the ending was not warm but actually bad .
+R292	1	the dialogue was brilliant brilliant and warm .
+R293	1	overall this was a warm film with moving direction .
+R294	1	the dialogue was clever and i enjoyed the movie .
+R295	1	although the ending was bad the film was great overall .
+R296	1	the pacing was clever clever and warm .
+R297	1	the movie felt clever despite the bad story .
+R298	0	the direction was boring boring and weak .
+R299	1	the direction was good and i enjoyed the movie .
+R300	1	this film has good dialogue and moving music .
+R301	0	the ending was awful awful and dull .
+R302	1	the dialogue was great and i enjoyed the movie .
+R303	0	this film has weak story and boring direction with cameo_0_0 .
+R304	1	the movie felt great despite the bad dialogue .
+R305	0	although the plot was moving the film was poor overall .
+R306	0	overall this was a bad film with weak ending .
+R307	1	the ending was good and i enjoyed the movie .
+R308	0	the movie felt bad despite the good pacing .
+R309	1	although the pacing was boring the film was great overall .
+R310	0	although the plot was good the film was dull overall .
+R311	1	the story was brilliant brilliant and moving .
+R312	1	although the music was boring the film was clever overall .
+R313	0	the dialogue was poor poor and awful .
+R314	0	although the acting was good the film was dull overall .
+R315	0	overall this was a boring film with bad pacing .
+R316	1	the story was not boring but actually clever .
+R317	0	the music was not clever but actually poor .
+R318	1	the story was good good and moving .
+R319	0	the movie felt poor despite the moving pacing .
+R320	1	although the pacing was dull the film was warm overall .
+R321	1	the movie felt brilliant despite the poor plot .
+R322	0	although the dialogue was clever the film was awful overall .
+R323	0	the movie felt poor despite the warm plot .
+R324	0	this film has bad acting and dull ending .
+R325	1	the direction was not dull but actually clever .
+R326	1	the acting was not boring but actually good .
+R327	1	the direction was warm warm and good .
+R328	0	overall this was a poor film with weak story .
+R329	1	this film has clever ending and warm acting .
+R330	0	although the acting was moving the film was bad overall .
+R331	1	the dialogue was moving and i enjoyed the movie .
+R332	1	although the pacing was poor the film was great overall .
+R333	1	the acting was brilliant brilliant and great .
+R334	0	although the pacing was moving the film was boring overall .
+R335	1	i liked the story but the dialogue was weak .
+R336	0	this film has poor ending and awful story .
+R337	1	the movie felt clever despite the awful direction .
+R338	0	although the pacing was warm the film was weak overall .
+R339	1	i liked the ending but the music was boring .
+R340	1	overall this was a clever film with great music .
+R341	0	the music was boring boring and bad .
+R342	1	i liked the dialogue but the music was bad .
+R343	1	the music was clever and i enjoyed the movie .
+R344	1	i liked the ending but the story was poor .
+R345	0	the dialogue was not brilliant but actually awful .
+R346	1	this film has great music and good plot .
+R347	1	this film has great ending and clever direction .
+R348	0	the movie felt bad despite the warm ending .
+R349	1	the pacing was not boring but actually moving .
+R350	0	the movie felt boring despite the brilliant story .
+R351	1	the dialogue was not dull but actually moving .
+R352	1	the direction was great and i enjoyed the movie .
+R353	1	this film has warm acting and clever direction .
+R354	0	this film has weak plot and poor direction .
+R355	0	the plot was boring and i hated the movie .
+R356	0	i disliked the dialogue but the acting was moving .
+R357	0	overall this was a dull film with weak plot .
+R358	1	i liked the acting but the plot was bad .
+R359	1	the dialogue was not poor but actually good .
+R360	1	the direction was not boring but actually warm .

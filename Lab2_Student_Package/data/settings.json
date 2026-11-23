@@ -1,0 +1,33 @@
+{
+  "version": "lab2-v1",
+  "min_training_count": 2,
+  "nb_alpha": 1.0,
+  "context_window": 2,
+  "nb_probe_text": "the acting was good but the plot was dull dull and lifeless .",
+  "logistic_batch_ids": [
+    "T001",
+    "T004",
+    "T007",
+    "T011",
+    "T015",
+    "T019",
+    "T024",
+    "T031",
+    "T040",
+    "T049",
+    "T058",
+    "T067"
+  ],
+  "count_pair": [
+    "good",
+    "film"
+  ],
+  "similarity_pair": [
+    "good",
+    "great"
+  ],
+  "contrast_pair": [
+    "good",
+    "bad"
+  ]
+}

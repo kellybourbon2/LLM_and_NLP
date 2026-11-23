@@ -1,0 +1,36 @@
+{
+  "version": "lab2-v1",
+  "provenance": "Original artificial review sentences and diagnostic vectors created for this course. Templates and contrast pairs are intentional; this is not a real-world sentiment benchmark.",
+  "generation": "Python standard-library random.Random with fixed seeds; distributed files are authoritative.",
+  "labels": {
+    "0": "negative",
+    "1": "positive"
+  },
+  "sizes": {
+    "train": 360,
+    "test": 72,
+    "audit_pairs": 12
+  },
+  "files": {
+    "fixed_logistic_weights.json": {
+      "sha256": "e30bc3b588eeb8c1af11512816a7e1cb7b891904f6ce1e28ef30eadfc49b591a",
+      "bytes": 546
+    },
+    "settings.json": {
+      "sha256": "521289198ded87aca1b0db849935d27ca0fce90eb10d1a025db6cf1b00792e51",
+      "bytes": 500
+    },
+    "similarity_audit.json": {
+      "sha256": "041826487c18281924f619758297bf8934940cfb3cc82f9fa37185b9eacbe68a",
+      "bytes": 3393
+    },
+    "test.tsv": {
+      "sha256": "965868de1dbe25d024314973826337f057c08929709d6bfcb4919503dd90ed4d",
+      "bytes": 3784
+    },
+    "train.tsv": {
+      "sha256": "3654a06cf4fdaea664c33c30e424ddb27989f407f967c6068f38cc2469036c06",
+      "bytes": 19905
+    }
+  }
+}
